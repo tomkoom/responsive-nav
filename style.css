@@ -1,0 +1,15 @@
+html {
+    --navBg: #d4e7ee;
+    --color: #29838c;
+    --white: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
